@@ -1,2 +1,2 @@
 # Diabetes-prediction-model
-Predicting diabetes with Supervised Machine Learning model
+Predicting diabetes with Supervised Machine Learning models
